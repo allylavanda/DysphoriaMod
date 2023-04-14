@@ -1,0 +1,5 @@
+UI_EN= {
+    --Dysphoria Descriptors
+    UI_trait_dysphoria_desc = "DEBUG"
+    UI_trait_dysphoria = "Dysphoria"
+}
